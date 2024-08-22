@@ -192,7 +192,8 @@ GEM
       ffi (~> 1.0)
     redcarpet (3.5.1)
     regexp_parser (2.1.1)
-    rexml (3.2.5)
+    rexml (3.3.6)
+      strscan
     rgl (0.5.7)
       lazy_priority_queue (~> 0.1.0)
       stream (~> 0.5.3)
@@ -246,6 +247,7 @@ GEM
       tilt (>= 2.0.6, < 2.1)
     stream (0.5.3)
       generator
+    strscan (3.1.0)
     sys-uname (1.2.2)
       ffi (~> 1.1)
     temple (0.8.2)
